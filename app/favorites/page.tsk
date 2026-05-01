@@ -1,0 +1,10 @@
+export default function FavoritesPage() {
+  return (
+    <div className="px-6 py-8 text-center">
+      <h2 className="text-2xl font-bold mb-2">Saved Items</h2>
+      <p className="text-charcoal/70">
+        Local save functionality will be added in a future update.
+      </p>
+    </div>
+  );
+}
