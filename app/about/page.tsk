@@ -1,0 +1,11 @@
+export default function AboutPage() {
+  return (
+    <div className="px-6 py-8 max-w-2xl mx-auto">
+      <h1 className="text-2xl font-bold mb-4">About Global Bite</h1>
+      <p>
+        Helping people discover products, foods, goods, and everyday treasures from cultures
+        around the world — even when they’re hard to find locally.
+      </p>
+    </div>
+  );
+}
