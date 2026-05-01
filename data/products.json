@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "name": "Korean House Slippers",
+    "category": "Home Goods",
+    "country": "South Korea",
+    "region": "Asia",
+    "cultureTags": ["Korean", "Comfort", "Indoor"],
+    "description": "Soft indoor slippers inspired by Korean homes, crafted from cotton and linen.",
+    "imageUrl": "[picsum.photos](https://picsum.photos/id/207/400/300)",
+    "retailer": "Amazon",
+    "price": "$24",
+    "rating": 4.7,
+    "affiliateUrl": "[amazon.com](https://amazon.com)",
+    "keywords": ["slippers", "house", "korea"],
+    "isFeatured": true,
+    "isTrending": false
+  },
+  {
+    "id": "2",
+    "name": "Turkish Coffee Pot",
+    "category": "Kitchenware",
+    "country": "Turkey",
+    "region": "Europe",
+    "cultureTags": ["Turkish", "Coffee"],
+    "description": "Traditional copper cezve for brewing authentic Turkish coffee.",
+    "imageUrl": "[picsum.photos](https://picsum.photos/id/455/400/300)",
+    "retailer": "Etsy",
+    "price": "$35",
+    "rating": 4.8,
+    "affiliateUrl": "[etsy.com](https://etsy.com)",
+    "keywords": ["coffee", "pot", "brass"],
+    "isFeatured": true,
+    "isTrending": true
+  },
+  {
+    "id": "3",
+    "name": "Japanese Matcha Set",
+    "category": "Tea & Ceramics",
+    "country": "Japan",
+    "region": "Asia",
+    "cultureTags": ["Japan", "Tea", "Matcha"],
+    "description": "Handcrafted Japanese matcha bowl, whisk, and scoop set.",
+    "imageUrl": "[picsum.photos](https://picsum.photos/id/310/400/300)",
+    "retailer": "Etsy",
+    "price": "$42",
+    "rating": 4.9,
+    "affiliateUrl": "[etsy.com](https://etsy.com)",
+    "keywords": ["matcha", "bowl", "tea"],
+    "isFeatured": false,
+    "isTrending": true
+  }
+]
